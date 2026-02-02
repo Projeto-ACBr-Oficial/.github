@@ -2,6 +2,14 @@
 
 Somos a maior comunidade open source para Automação Comercial do Brasil.
 
+* [🚀 Tecnologias](#-tecnologias)
+    * [📱 Android](#)
+        * [💳 TEF](#-tef)
+        * [📦 Lib](#-lib)
+    * [🐳 Docker](#-1)
+    * [🟢 Node.JS](#-2)
+    * [⚙️ Outros](#-3)
+
 
 ## 🚀 Tecnologias
 
