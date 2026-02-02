@@ -9,7 +9,7 @@ Somos a maior comunidade open source para Automação Comercial do Brasil.
 
 #### 💳 TEF
 
-| Projeto | Tecnologia | Descrição |
+| Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
 | [**SiTef**](https://github.com/Projeto-ACBr-Oficial/acbr-sitef-android) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Compose](https://img.shields.io/badge/Compose-808080) ![MVVM](https://img.shields.io/badge/MVVM-808080) | Aplicativo de integração com o SiTef (CliSiTef e m-SiTef). |
 | [**PayGo-Tef**](https://github.com/Projeto-ACBr-Oficial/acbr_tefpaygo_flutter) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-808080) ![MVC](https://img.shields.io/badge/MVC-808080) | Aplicativo de integração com o TEF PayGo. |
@@ -18,7 +18,7 @@ Somos a maior comunidade open source para Automação Comercial do Brasil.
 
 #### 📦 Lib
 
-| Projeto | Tecnologia | Descrição |
+| Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
 | [**PDV**](https://github.com/Projeto-ACBr-Oficial/pdv-android) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![XML](https://img.shields.io/badge/XML-808080) ![MVVM](https://img.shields.io/badge/MVVM-808080) | Simulação de um PDV que se integra com as libs do ACBr. |
 
@@ -26,7 +26,7 @@ Somos a maior comunidade open source para Automação Comercial do Brasil.
 
 ### [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
 
-| Projeto | Tecnologia | Descrição |
+| Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
 | [**Docker**](https://github.com/Projeto-ACBr-Oficial/Docker) | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Lib](https://img.shields.io/badge/Lib-808080) | Repositório com Dockers criados pelo ACBr. |
 
