@@ -15,7 +15,7 @@ Somos a maior comunidade open source para Automação Comercial do Brasil.
 | [**PayGo-Tef**](https://github.com/Projeto-ACBr-Oficial/acbr_tefpaygo_flutter) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-808080) ![MVC](https://img.shields.io/badge/MVC-808080) | Aplicativo de integração com o TEF PayGo. |
 | [**PDV-SiTef**](https://github.com/Projeto-ACBr-Oficial/fiserv-android) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![XML](https://img.shields.io/badge/XML-808080) ![MVVM](https://img.shields.io/badge/MVVM-808080) | Simulação de um PDV que se integra com o SiTef (CliSiTef e m-SiTef). |
 | [**DirectPin-Android**](https://github.com/Projeto-ACBr-Oficial/directpin-android) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Compose](https://img.shields.io/badge/Compose-808080) | Projeto de integração com o Direct Pin Route. |
-| [**DirectPin-Flutter**](https://github.com/Projeto-ACBr-Oficial/acbr_tefpaygo_flutter) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-808080) | Projeto de integração com o Direct Pin Route. |
+| [**DirectPin-Flutter**](https://github.com/Projeto-ACBr-Oficial/directpin-flutter) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-808080) | Projeto de integração com o Direct Pin Route. |
 
 
 #### 📦 Lib
