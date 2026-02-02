@@ -5,7 +5,7 @@ Somos a maior comunidade open source para Automação Comercial do Brasil.
 
 ## 🚀 Tecnologias
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
+### [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/?hl=pt-br)
 
 #### 💳 TEF
 
